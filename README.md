@@ -3,7 +3,7 @@
 ![gambar 1 XAMPP](https://user-images.githubusercontent.com/116246238/231046577-ebe4f827-d0b5-461d-8590-f7be6838a9cc.jpg)
 
 #### 2. Buat sebuah tabel dengan nama biodata (nama, alamat) didalam database latihan1
-
+![gambar 2 XAMPP](https://user-images.githubusercontent.com/116246238/231183923-654d8b6c-08aa-4d54-a1f2-a5de0786a763.png)
 
 #### 3. Tambahkan sebuah kolom keterangan (varchar 15), sebagai kolom terakhir
 ![gambar 3 XAMPP](https://user-images.githubusercontent.com/116246238/231046605-0f6b8e1f-4f9d-4f41-8cd3-990e6b6f961f.png)
